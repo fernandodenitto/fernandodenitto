@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fernandodenitto
 - 👀 I’m interested in Computer Engineering and Data Science
 - 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on AI
+- 💞️ I’m looking to collaborate on AI, Machine Learning and Data Engineering
 - 📫 fernandodenitto@gmail.com
 
 <!---

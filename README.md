@@ -1,6 +1,6 @@
 <h1 align="center">Fernando Denitto</h1>
 <p align="center">
-Data Platform Engineer @ Prada Group
+Global Data Engineer @ Prada Group
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Currently working on:
 
 ## Experience
 
-**Prada Group** — Data Platform Engineer & Delivery Lead  
+**Prada Group** — Global Data Engineer & Delivery Lead  
 2025 → Present  
 
 **Data Reply** — Senior Cloud Observability Engineer  

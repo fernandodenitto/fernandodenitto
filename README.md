@@ -60,7 +60,7 @@ OpenTelemetry • ClickHouse • Prometheus • Grafana
 
 ## Links
 
-- https://www.fernandodenitto.com  
+- https://www.fernandodenitto.me  
 - https://linkedin.com/in/fernandodenitto  
 - https://github.com/fernandodenitto  
 

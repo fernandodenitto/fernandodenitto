@@ -1,4 +1,4 @@
-<h1 align="center">Fernando Denitto</h1>
+<h1 align="center">Fernando De Nitto</h1>
 
 <p align="center">
   Data platforms by day. Governance for AI agents by night.
